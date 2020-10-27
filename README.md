@@ -1,14 +1,49 @@
 # Note Taker App - Week 11 Homework
-Description: The app is a simple note taker that allows a user to navigate to a notes page where the user enters a title and body of a note, and saves the note. 
 
-Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+## Preview
+![Preview](Preview.png)
 
-Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
+## Badges
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Usage: The user navigates from a home screen to a notes screen. In the notes screen, the user has the ability to enter the title and body of a note, and then click the save icon to trigger a prmopt to confirm the note will be saved. If the user confirms, the note is then stored in a column on the left hand side of the page by title. Clicking on an existing note will bring up the title and body of that note. There is also an option to delete each of the notes on the left hand side of the page using the trash can icon. The user will be prompted to confirm when deleting notes.
+## Description
+The app is a simple note taker that allows a user to navigate to a notes page where the user enters a title and body of a note, and saves the note.
 
-Credits: trilogy tutor helped explain the routing for posting notes and for generating a unique ID for each note, with which I was having significant difficulty.
+## Table of Contents
+   * [Installation](#Installation)
+   * [Usage](#Usage)
+   * [License](#License)
+   * [Tests](#Tests)
+   * [Contribution](#Contribution)
+   * [Collaborators](#Collaborators)
+   * [Questions](#Questions)
 
-License: MIT License
+## Installation
+The User will need to install the express dependency using the following commant:
+    npm install
 
-Copyright (c) 2020 Chris Natale
+The User simply needs to initiate the application entering the following command in the command line:
+    node server.js
+
+## Usage
+The application is simple to use - we would encourage anyone experiencing difficulty to get in touch.
+
+## License
+MIT license
+
+## Tests
+npm test
+
+## Contribution
+The design and content of the application is derived from a review of material provided by Trilogy Education Service.
+
+## Collaborators
+There are many ways in which you can participate in the project, for example:
+
+- Submit bugs and feature requests, and help us verify as they are checked in
+- Review source code changes
+- Review the documentation and make pull requests for anything from typos to new content
+
+## Questions
+Email: christopher.j.natale@gmail.com.
+Github Profile: http://github.com/cnat3103
